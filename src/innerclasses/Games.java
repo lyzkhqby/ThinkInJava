@@ -1,5 +1,7 @@
 package innerclasses;
 
+import static util.Print.print;
+
 interface Game {
     boolean move();
 }

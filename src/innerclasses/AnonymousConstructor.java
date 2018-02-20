@@ -1,5 +1,7 @@
 package innerclasses;
 
+import static util.Print.print;
+
 abstract class Base {
     public Base(int i) {
         print("Base constructor. i=" + i);
