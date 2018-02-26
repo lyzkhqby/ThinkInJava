@@ -1,5 +1,7 @@
 package operators;
 
+import reusing.Car;
+
 public class AllOps {
     void f(boolean b) {}
     void boolTest(boolean x, boolean y) {
@@ -360,6 +362,7 @@ public class AllOps {
         int i = (int) x;
         long l = (long) x;
         float f = (float) x;
+
     }
 
 }
