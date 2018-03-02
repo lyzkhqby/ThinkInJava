@@ -4,6 +4,7 @@
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/src/holding/ListFeatures.java" />
       <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Pet.java" />
+      <file url="file://$PROJECT_DIR$/src/holding/SimpleIteration.java" />
     </excludeFromCompile>
   </component>
 </project>
