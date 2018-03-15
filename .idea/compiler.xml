@@ -16,6 +16,7 @@
       <file url="file://$PROJECT_DIR$/src/holding/UniqueWords.java" />
       <file url="file://$PROJECT_DIR$/src/holding/ContainerMethods.java" />
       <file url="file://$PROJECT_DIR$/src/holding/UniqueWordsAlphabetic.java" />
+      <file url="file://$PROJECT_DIR$/src/strings/ArrayListDisplay.java" />
     </excludeFromCompile>
   </component>
 </project>
