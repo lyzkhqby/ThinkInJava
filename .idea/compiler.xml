@@ -3,7 +3,6 @@
   <component name="CompilerConfiguration">
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/src/holding/ListFeatures.java" />
-      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Pet.java" />
       <file url="file://$PROJECT_DIR$/src/holding/SimpleIteration.java" />
       <file url="file://$PROJECT_DIR$/src/holding/LinkedListFeatures.java" />
       <file url="file://$PROJECT_DIR$/src/holding/CollectionSequence.java" />
@@ -19,6 +18,11 @@
       <file url="file://$PROJECT_DIR$/src/strings/ArrayListDisplay.java" />
       <file url="file://$PROJECT_DIR$/src/util/Hex.java" />
       <file url="file://$PROJECT_DIR$/src/strings/TheReplacements.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Pet.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Person.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount3.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount4.java" />
     </excludeFromCompile>
   </component>
 </project>
