@@ -23,6 +23,22 @@
       <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount.java" />
       <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount3.java" />
       <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount4.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Dog.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Cat.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Rodent.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/LiteralPetCreator.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/PetCreator.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Pets.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/ForNameCreator.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/PetCount2.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Mouse.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Hamster.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/EgyptianMau.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Rat.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Pug.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Manx.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Mutt.java" />
+      <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Cymric.java" />
     </excludeFromCompile>
   </component>
 </project>
