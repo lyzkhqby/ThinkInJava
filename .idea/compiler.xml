@@ -39,6 +39,9 @@
       <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Manx.java" />
       <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Mutt.java" />
       <file url="file://$PROJECT_DIR$/src/typeinfo/pets/Cymric.java" />
+      <file url="file://$PROJECT_DIR$/src/generics/SimplerPets.java" />
+      <file url="file://$PROJECT_DIR$/src/generics/LimitsOfInference.java" />
+      <file url="file://$PROJECT_DIR$/src/generics/ExplicitTypeSpecification.java" />
     </excludeFromCompile>
   </component>
 </project>
