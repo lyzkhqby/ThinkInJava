@@ -25,7 +25,7 @@ public class Holder<T> {
         // Holder<Fruit> Fruit = Apple;
         Holder<? extends Fruit> fruit = Apple;
         Fruit p  = fruit.get();
-        d = (generics.Apple) fruit.get();
+        d = (Apple) fruit.get();
         try {
             Orange c = (Orange) fruit.get();
         } catch (Exception e) {
