@@ -42,6 +42,8 @@
       <file url="file://$PROJECT_DIR$/src/generics/SimplerPets.java" />
       <file url="file://$PROJECT_DIR$/src/generics/LimitsOfInference.java" />
       <file url="file://$PROJECT_DIR$/src/generics/ExplicitTypeSpecification.java" />
+      <file url="file://$PROJECT_DIR$/src/generics/PrimitiveGenericTest.java" />
+      <file url="file://$PROJECT_DIR$/src/generics/MultipleInterfaceVariants.java" />
     </excludeFromCompile>
   </component>
 </project>
